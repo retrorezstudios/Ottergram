@@ -1,3 +1,3 @@
-# Title of Program
+# Ottergram Website
 
-Description:
+Description: Very simple website to show basic Javascript functions that are commonly used in Web Development.
